@@ -1,2 +1,2 @@
 # introduction-to-sustainability
-boardinfinity project on introduction to sustainability
+coursera project on introduction to sustainability
